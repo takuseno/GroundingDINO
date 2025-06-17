@@ -1,3 +1,5 @@
+This is a fork version of GroundingDINO that supports newer versions (>2.7.0) of PyTorch by fixing complilation errors.
+
 <div align="center">
   <img src="./.asset/grounding_dino_logo.png" width="30%">
 </div>
